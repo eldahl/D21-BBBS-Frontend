@@ -1,0 +1,4 @@
+
+#contentSidebars {
+    transition: padding-right 0.05s ease-in-out, padding-left 0.05s ease-in-out;
+}

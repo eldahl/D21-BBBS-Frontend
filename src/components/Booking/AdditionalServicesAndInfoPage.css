@@ -1,0 +1,9 @@
+
+#contentSidebars {
+    transition: padding-right 0.05s ease-in-out, padding-left 0.05s ease-in-out;
+}
+
+#additionalServiceItem {
+    background: rgb(255,247,237);
+    background: linear-gradient(90deg, rgba(255,247,237,1) 0%, rgba(253, 186, 116,0.5) 100%);
+}
